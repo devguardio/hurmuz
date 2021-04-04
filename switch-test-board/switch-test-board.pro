@@ -1,4 +1,4 @@
-update=01/04/2021 19:08:10
+update=04/04/2021 15:32:01
 version=1
 last_client=kicad
 [general]
@@ -242,6 +242,28 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
+Name=ETH
+Clearance=0.1524
+TrackWidth=0.11049
+ViaDiameter=0.5
+ViaDrill=0.2
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.11049
+dPairGap=0.1524
+dPairViaGap=0.25
+[pcbnew/Netclasses/2]
+Name=PCIe
+Clearance=0.1
+TrackWidth=0.1
+ViaDiameter=0.5
+ViaDrill=0.2
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/3]
 Name=SGMII
 Clearance=0.1524
 TrackWidth=0.11049
@@ -251,4 +273,15 @@ uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.11049
 dPairGap=0.1524
+dPairViaGap=0.25
+[pcbnew/Netclasses/4]
+Name=USB
+Clearance=0.1
+TrackWidth=0.1
+ViaDiameter=0.5
+ViaDrill=0.2
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
 dPairViaGap=0.25

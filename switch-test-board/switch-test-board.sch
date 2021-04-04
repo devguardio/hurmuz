@@ -1783,19 +1783,19 @@ Connection ~ 19050 9900
 Text Label 6750 9850 0    50   ~ 0
 P1_TXRX_A_P
 Text Label 6750 9950 0    50   ~ 0
-P1_TXRX_A_M
+P1_TXRX_A_N
 Text Label 6750 10050 0    50   ~ 0
 P1_TXRX_B_P
 Text Label 6750 10150 0    50   ~ 0
-P1_TXRX_B_M
+P1_TXRX_B_N
 Text Label 6750 10250 0    50   ~ 0
 P1_TXRX_C_P
 Text Label 6750 10350 0    50   ~ 0
-P1_TXRX_C_M
+P1_TXRX_C_N
 Text Label 6750 10450 0    50   ~ 0
 P1_TXRX_D_P
 Text Label 6750 10550 0    50   ~ 0
-P1_TXRX_D_M
+P1_TXRX_D_N
 Wire Wire Line
 	7300 9850 6750 9850
 Wire Wire Line
@@ -1815,19 +1815,19 @@ Wire Wire Line
 Text Label 6750 10850 0    50   ~ 0
 P2_TXRX_A_P
 Text Label 6750 10950 0    50   ~ 0
-P2_TXRX_A_M
+P2_TXRX_A_N
 Text Label 6750 11050 0    50   ~ 0
 P2_TXRX_B_P
 Text Label 6750 11150 0    50   ~ 0
-P2_TXRX_B_M
+P2_TXRX_B_N
 Text Label 6750 11250 0    50   ~ 0
 P2_TXRX_C_P
 Text Label 6750 11350 0    50   ~ 0
-P2_TXRX_C_M
+P2_TXRX_C_N
 Text Label 6750 11450 0    50   ~ 0
 P2_TXRX_D_P
 Text Label 6750 11550 0    50   ~ 0
-P2_TXRX_D_M
+P2_TXRX_D_N
 Wire Wire Line
 	7300 10850 6750 10850
 Wire Wire Line
@@ -1844,22 +1844,22 @@ Wire Wire Line
 	7300 11450 6750 11450
 Wire Wire Line
 	7300 11550 6750 11550
-Text Label 6750 11850 0    50   ~ 0
-P3_TXRX_A_P
 Text Label 6750 11950 0    50   ~ 0
-P3_TXRX_A_M
+P3_TXRX_A_P
+Text Label 6750 11850 0    50   ~ 0
+P3_TXRX_A_N
 Text Label 6750 12050 0    50   ~ 0
 P3_TXRX_B_P
 Text Label 6750 12150 0    50   ~ 0
-P3_TXRX_B_M
+P3_TXRX_B_N
 Text Label 6750 12250 0    50   ~ 0
 P3_TXRX_C_P
 Text Label 6750 12350 0    50   ~ 0
-P3_TXRX_C_M
+P3_TXRX_C_N
 Text Label 6750 12450 0    50   ~ 0
 P3_TXRX_D_P
 Text Label 6750 12550 0    50   ~ 0
-P3_TXRX_D_M
+P3_TXRX_D_N
 Wire Wire Line
 	7300 11850 6750 11850
 Wire Wire Line
@@ -3732,19 +3732,19 @@ $EndComp
 Text Label 5550 8250 0    50   ~ 0
 P1_TXRX_A_P
 Text Label 5550 8350 0    50   ~ 0
-P1_TXRX_A_M
+P1_TXRX_A_N
 Text Label 5550 8550 0    50   ~ 0
 P1_TXRX_B_P
 Text Label 5550 8650 0    50   ~ 0
-P1_TXRX_B_M
+P1_TXRX_B_N
 Text Label 5550 8850 0    50   ~ 0
 P1_TXRX_C_P
 Text Label 5550 8950 0    50   ~ 0
-P1_TXRX_C_M
+P1_TXRX_C_N
 Text Label 5550 9150 0    50   ~ 0
 P1_TXRX_D_P
 Text Label 5550 9250 0    50   ~ 0
-P1_TXRX_D_M
+P1_TXRX_D_N
 $Comp
 L Device:C_Small C25
 U 1 1 60A2FE33
@@ -3873,19 +3873,19 @@ $EndComp
 Text Notes 2650 12150 0    100  ~ 20
 Cap. Coupling\n
 Text Label 5550 12050 0    50   ~ 0
-P3_TXRX_D_M
+P3_TXRX_D_N
 Text Label 5550 11950 0    50   ~ 0
 P3_TXRX_D_P
 Text Label 5550 11750 0    50   ~ 0
-P3_TXRX_C_M
+P3_TXRX_C_N
 Text Label 5550 11650 0    50   ~ 0
 P3_TXRX_C_P
 Text Label 5550 11450 0    50   ~ 0
-P3_TXRX_B_M
+P3_TXRX_B_N
 Text Label 5550 11350 0    50   ~ 0
 P3_TXRX_B_P
 Text Label 5550 11150 0    50   ~ 0
-P3_TXRX_A_M
+P3_TXRX_A_N
 Text Label 5550 11050 0    50   ~ 0
 P3_TXRX_A_P
 Wire Wire Line
@@ -4129,19 +4129,19 @@ F 3 "~" H 5200 9650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text Label 5550 10650 0    50   ~ 0
-P2_TXRX_D_M
+P2_TXRX_D_N
 Text Label 5550 10550 0    50   ~ 0
 P2_TXRX_D_P
 Text Label 5550 10350 0    50   ~ 0
-P2_TXRX_C_M
+P2_TXRX_C_N
 Text Label 5550 10250 0    50   ~ 0
 P2_TXRX_C_P
 Text Label 5550 10050 0    50   ~ 0
-P2_TXRX_B_M
+P2_TXRX_B_N
 Text Label 5550 9950 0    50   ~ 0
 P2_TXRX_B_P
 Text Label 5550 9750 0    50   ~ 0
-P2_TXRX_A_M
+P2_TXRX_A_N
 Text Label 5550 9650 0    50   ~ 0
 P2_TXRX_A_P
 Text Label 4050 11050 0    50   ~ 0
@@ -4184,14 +4184,6 @@ Text Label 10300 8100 0    50   ~ 0
 X1_CON_ETH_P1_P
 Text Label 10300 8250 0    50   ~ 0
 X1_CON_ETH_P1_N
-Text Label 12650 8100 0    50   ~ 0
-X1_CON_ETH_P2_P
-Text Label 12650 8250 0    50   ~ 0
-X1_CON_ETH_P2_N
-Text Label 12650 7650 0    50   ~ 0
-X1_CON_ETH_P3_P
-Text Label 12650 7800 0    50   ~ 0
-X1_CON_ETH_P3_N
 Text Label 13750 7650 0    50   ~ 0
 X1_EDGE_ETH_P0_P
 Text Label 13750 7800 0    50   ~ 0
@@ -4200,14 +4192,6 @@ Text Label 13750 8100 0    50   ~ 0
 X1_EDGE_ETH_P1_P
 Text Label 13750 8250 0    50   ~ 0
 X1_EDGE_ETH_P1_N
-Text Label 16150 8100 0    50   ~ 0
-X1_EDGE_ETH_P2_P
-Text Label 16150 8250 0    50   ~ 0
-X1_EDGE_ETH_P2_N
-Text Label 16150 7650 0    50   ~ 0
-X1_EDGE_ETH_P3_P
-Text Label 16150 7800 0    50   ~ 0
-X1_EDGE_ETH_P3_N
 Wire Wire Line
 	14550 7650 13750 7650
 Wire Wire Line
@@ -4217,14 +4201,6 @@ Wire Wire Line
 Wire Wire Line
 	14550 8250 13750 8250
 Wire Wire Line
-	16050 8100 16900 8100
-Wire Wire Line
-	16050 8250 16900 8250
-Wire Wire Line
-	16050 7800 16900 7800
-Wire Wire Line
-	16050 7650 16900 7650
-Wire Wire Line
 	11050 7650 10300 7650
 Wire Wire Line
 	11050 7800 10300 7800
@@ -4232,14 +4208,6 @@ Wire Wire Line
 	11050 8100 10300 8100
 Wire Wire Line
 	11050 8250 10300 8250
-Wire Wire Line
-	12550 8100 13350 8100
-Wire Wire Line
-	12550 8250 13350 8250
-Wire Wire Line
-	12550 7650 13350 7650
-Wire Wire Line
-	12550 7800 13350 7800
 $Comp
 L OLIMEX_Power:GND #PWR030
 U 1 1 62C0E330
@@ -5971,4 +5939,36 @@ F 3 "~" H 12350 2100 50  0001 C CNN
 	1    12150 2100
 	1    0    0    -1  
 $EndComp
+Text Label 12650 8100 0    50   ~ 0
+X1_CON_ETH_P3_P
+Text Label 12650 8250 0    50   ~ 0
+X1_CON_ETH_P3_N
+Wire Wire Line
+	12550 8100 13350 8100
+Wire Wire Line
+	12550 8250 13350 8250
+Text Label 12650 7650 0    50   ~ 0
+X1_CON_ETH_P2_P
+Text Label 12650 7800 0    50   ~ 0
+X1_CON_ETH_P2_N
+Wire Wire Line
+	12550 7650 13350 7650
+Wire Wire Line
+	12550 7800 13350 7800
+Text Label 16150 8100 0    50   ~ 0
+X1_EDGE_ETH_P3_P
+Text Label 16150 8250 0    50   ~ 0
+X1_EDGE_ETH_P3_N
+Wire Wire Line
+	16050 8250 16900 8250
+Wire Wire Line
+	16050 8100 16900 8100
+Text Label 16150 7650 0    50   ~ 0
+X1_EDGE_ETH_P2_P
+Text Label 16150 7800 0    50   ~ 0
+X1_EDGE_ETH_P2_N
+Wire Wire Line
+	16050 7650 16900 7650
+Wire Wire Line
+	16050 7800 16900 7800
 $EndSCHEMATC
