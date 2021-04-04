@@ -1985,11 +1985,11 @@ Connection ~ 10350 14650
 Wire Wire Line
 	9850 14650 10000 14650
 Text Label 9600 12150 0    50   ~ 0
-S_TX7_M
+S_TX7_N
 Text Label 9600 12250 0    50   ~ 0
 S_TX7_P
 Text Label 9600 12450 0    50   ~ 0
-S_RX7_M
+S_RX7_N
 Text Label 9600 12550 0    50   ~ 0
 S_RX7_P
 Wire Wire Line
@@ -2882,11 +2882,11 @@ Wire Wire Line
 Wire Wire Line
 	5150 12750 5150 12700
 Text Label 5700 13750 0    50   ~ 0
-S_TX7_M
+S_TX7_N
 Text Label 5700 13650 0    50   ~ 0
 S_TX7_P
 Text Label 5700 14050 0    50   ~ 0
-S_RX7_M
+S_RX7_N
 Text Label 5700 13950 0    50   ~ 0
 S_RX7_P
 Wire Wire Line

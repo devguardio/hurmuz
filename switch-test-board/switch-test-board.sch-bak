@@ -2882,11 +2882,11 @@ Wire Wire Line
 Wire Wire Line
 	5150 12750 5150 12700
 Text Label 5700 13750 0    50   ~ 0
-S_TX7_M
+S_TX7_N
 Text Label 5700 13650 0    50   ~ 0
 S_TX7_P
 Text Label 5700 14050 0    50   ~ 0
-S_RX7_M
+S_RX7_N
 Text Label 5700 13950 0    50   ~ 0
 S_RX7_P
 Wire Wire Line
